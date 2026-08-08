@@ -1,0 +1,6 @@
+{
+  "name": "CONET",
+  "description": "B2B cross-departmental and cross-industry project collaboration platform with interactive co-working space map, active professional directory, occupancy analytics, and visual seat booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
